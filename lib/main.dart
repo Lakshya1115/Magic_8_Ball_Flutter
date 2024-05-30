@@ -35,7 +35,7 @@ class _BallState extends State<Ball> {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Image.asset('ball1.png'),
+      child: Image.asset('photos/ball1.png'),
     );
   }
 }
